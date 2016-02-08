@@ -1,1 +1,3 @@
 http://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785
+
+http://stackoverflow.com/questions/22355828/doing-http-requests-from-laravel-to-an-external-api
